@@ -1,0 +1,6 @@
+{
+  "name": "AP RTC Bus Simulator",
+  "description": "Realistic Andhra Pradesh RTC Bus Simulator driving across Kurnool, Nandyal, and Srisailam Ghat roads with authentic physics, traffic, passengers, toll plazas, and depots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
